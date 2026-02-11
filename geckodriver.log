@@ -1,0 +1,17 @@
+1686216119869	geckodriver	INFO	Listening on 127.0.0.1:63567
+1686216177084	geckodriver	INFO	Listening on 127.0.0.1:63593
+1686216335533	geckodriver	INFO	Listening on 127.0.0.1:63655
+1686216338622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqA75FZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686216339536	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686216339546	Marionette	INFO	Listening on port 63663
+Read port: 63663
+WebDriver BiDi listening on ws://127.0.0.1:63656
+1686216339769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63656/devtools/browser/ebdca0e3-4db2-4b3b-b26c-e924d67017aa
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?v=1685987900, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?v=1685987900, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1686216419008	Marionette	INFO	Stopped listening on port 63663
+Dynamically enable window occlusion 1
