@@ -15,3 +15,52 @@ JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?v=168
 JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?v=1685987900, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
 1686216419008	Marionette	INFO	Stopped listening on port 63663
 Dynamically enable window occlusion 1
+1771425104147	geckodriver	INFO	Listening on 127.0.0.1:2244
+1771425190112	geckodriver	INFO	Listening on 127.0.0.1:2265
+1771486023635	geckodriver	INFO	Listening on 127.0.0.1:5371
+1771486163385	geckodriver	INFO	Listening on 127.0.0.1:5431
+1771486166465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileav9x3d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1771486167070	Marionette	INFO	Marionette enabled
+1771486167255	Marionette	INFO	Listening on port 5439
+Read port: 5439
+WebDriver BiDi listening on ws://127.0.0.1:5432
+1771486167387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1771432075, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1771432075, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1771486226320	Marionette	INFO	Stopped listening on port 5439
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1771486229216	geckodriver	INFO	Listening on 127.0.0.1:5476
+1771486232282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileSVagbY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1771486232845	Marionette	INFO	Marionette enabled
+1771486233028	Marionette	INFO	Listening on port 5484
+WebDriver BiDi listening on ws://127.0.0.1:5477
+Read port: 5484
+1771486233242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1771432075, line 6289: unreachable code after return statement
+1771486239014	Marionette	INFO	Stopped listening on port 5484
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+1771486501144	geckodriver	INFO	Listening on 127.0.0.1:5536
+1771486504201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileRKzTvf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1771486504740	Marionette	INFO	Marionette enabled
+1771486504907	Marionette	INFO	Listening on port 5544
+Read port: 5544
+WebDriver BiDi listening on ws://127.0.0.1:5537
+1771486505054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create a D3D11 content device: 0x887a0031
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1771432075, line 6289: unreachable code after return statement
+1771486511983	Marionette	INFO	Stopped listening on port 5544
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
